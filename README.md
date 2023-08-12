@@ -1,2 +1,2 @@
 # codsoft_task2
-Calculator
+Calculator using Python Tkinter.
